@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Front end app to connect to express socketio server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "latif.s",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^2.0.3"
+  }
+}
