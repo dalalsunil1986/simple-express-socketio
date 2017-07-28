@@ -1,9 +1,5 @@
 # Express+Babel+socketio Server
 
-* Simple example of an Express server that require the mraa library available on the intel Edison board.
-* This could serve as a boilerplate to get started on an edison project requiring to have access to the GPIO.
-* The server has only 2 routes now and basically lights up any LED plugged on the pin #12 for 500ms everytime the index route gets hit.
-
 ## Clone the Repo
 
 ### BackEnd
